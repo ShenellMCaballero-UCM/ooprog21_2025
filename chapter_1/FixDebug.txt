@@ -1,0 +1,17 @@
+ public class FixDebug One
+ {
+       /* This program display a greeting */
+       public static void Main( String args)
+ {
+       System.out.printIn("Hello World!")
+ }
+
+/*
+
+ list down the spotted bugs below:
+ 1.i notice that the semicolon is missing in the System.out.printIn("Hello World!).
+ 2.i notice that there is a typo in the program instead of "System.out.printIn" its says "Systm.out.printIn".
+ 3.In "FixDebug One" it has a space its suppose no space it should be "FixDebugOne".
+ 4.The mehtod signature used "Main(String args)" instead of "main(String[] args)".
+
+*/
