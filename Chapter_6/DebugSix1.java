@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class DebugSix1
@@ -23,3 +22,4 @@ public class DebugSix1
         keyboard.close();
     }
 }
+
